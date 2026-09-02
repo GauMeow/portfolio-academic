@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Semantics Researcher at UW-Madison
+role: M.S Computer Science student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Incoming MSCS student @ UMD
+  - name: University of Maryland
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -148,7 +148,7 @@ awards:
 
 ## About Me
 
-I'm an incoming Master's student in Computer Science at University of Maryland -- College Park. I earned a B.S. in Computer Science at the University of Wisconsin -- Madison with certificate in Statistics and Math.
+I'm a Master's student in Computer Science at University of Maryland -- College Park. I earned a B.S. in Computer Science at the University of Wisconsin -- Madison with certificate in Statistics and Math.
 
 My academic journey has equipped me with solid skills in algorithms, data structures, deep learning and software development, along with hands-on experience in application development and data analysis.
 
